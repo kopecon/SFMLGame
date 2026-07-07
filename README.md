@@ -35,7 +35,7 @@ The project evolved through multiple refactors as understanding deepened, and ma
 - Comments are kept minimal to encourage **self-explanatory code**
 - Refactoring is frequent and expected
 - Commit history reflects experimentation rather than a polished workflow
-- **ChatGPT was used strictly as a feedback and discussion tool**, never for direct code generation
+- **AI was used strictly as a feedback and discussion tool**, never for direct code generation
 
 ---
 
